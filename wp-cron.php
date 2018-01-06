@@ -34,7 +34,6 @@ if ( !defined('ABSPATH') ) {
 }
 
 /**
- * Retrieves the cron lock.
  *
  * Returns the uncached `doing_cron` transient.
  *
