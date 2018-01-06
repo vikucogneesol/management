@@ -38,7 +38,7 @@ if ( !defined('ABSPATH') ) {
  * Returns the uncached `doing_cron` transient.
  *
  * @ignore
- * @since 3.3.0
+ * @since 6.3.0
  *
  * @global wpdb $wpdb WordPress database abstraction object.
  *
